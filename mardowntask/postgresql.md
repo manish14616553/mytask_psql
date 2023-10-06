@@ -1,8 +1,5 @@
 
-<style>
-th{
-    border: 2px solid green; text-align: center;}
-</style>
+
 
 <h1 style=color:blue;>POSTGRESQL ASSIGNMENT :2</h1>
 
